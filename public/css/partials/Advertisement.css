@@ -3,10 +3,14 @@
   height: 630px;
   margin-top: 20px;
 }
+.Advertisement__center{
+  width: 70%;
+  height: inherit;
+  margin: 0 auto;
+}
 .Advertisement__Foursome {
   width: 70%;
   height: 43%;
-  margin: 0 auto;
   padding: 10px;
   display: flex;
   column-gap: 10px;
